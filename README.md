@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi, I'm Giaosucan 👋
+<br />
+I am Solution Architect certified engineer with 15+ years experiences of IT engineering. "Work Smarter, Not Harder" is my motto. I like working with excellent people throughout the world. Check out my LinkedIn profile https://www.linkedin.com/in/giaosucan/
 
-<!--
-**giaosucan/giaosucan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me**
 
-Here are some ideas to get you started:
+- 💼 Solution Architect at FPT software [FPT Software](https://fptsoftware.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 Top [IT blogger](https://itviec.com/blog/it-blogger-viet/) Vietnam 
+
+- ❤️ Coding as my hobby [Leetcode](https://leetcode.com/giaosucan/) and [CodeFight](https://app.codesignal.com/profile/giaosucan)
+
+I'm best reached via [email](giaosucan1983@gmail.com). I'm always open to interesting conversations and collaboration.
+

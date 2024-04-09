@@ -1,6 +1,6 @@
 Hi, I'm Giaosucan 👋
 <br />
-I am Solution Architect certified engineer with 15+ years experiences of IT engineering. "Work Smarter, Not Harder" is my motto. I like working with excellent people throughout the world. Check out my LinkedIn profile https://www.linkedin.com/in/giaosucan/
+I am a Solution Architect with 15+ years experiences of IT engineering. "Work Smarter, Not Harder" is my motto. I like working with excellent people throughout the world and contributing to IT communities
 
 **About me**
 
